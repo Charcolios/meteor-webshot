@@ -1,6 +1,6 @@
 Package.describe({
   name: 'charcolios:webshot',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'node-webshot version 0.17.0',
   git: 'https://github.com/Charcolios/meteor-webshot',
   documentation: "README.md"
