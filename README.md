@@ -1,4 +1,4 @@
-# meteor-webshot 0.0.2
+# meteor-webshot 0.0.3
 
 ##### Uses node-webshot 0.17.0: https://github.com/brenden/node-webshot
 
@@ -12,7 +12,7 @@ meteor add charcolios:webshot
 ####  Package Installation:
 
 ```sh
-api.use('charcolios:webshot@0.0.2', 'server');
+api.use('charcolios:webshot@0.0.3', 'server');
 ```
 
 ####  Usage:
